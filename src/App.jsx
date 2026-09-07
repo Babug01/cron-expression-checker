@@ -118,7 +118,7 @@ export default function CronTool() {
 
   return (
     <div style={styles.root}>
-      <Header title="Cron Expression Checker" repoUrl={REPO_URL} />
+      <Header repoUrl={REPO_URL} />
       <div style={styles.content}>
       <h1 style={styles.title}>Cron Expression Checker</h1>
       <p style={styles.subtitle}>Enter a 5-field cron expression to see what it means in plain English and its next 10 run times.</p>
