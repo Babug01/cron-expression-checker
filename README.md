@@ -1,6 +1,6 @@
 # Cron Expression Checker
 
-**Live demo:** https://babug01.github.io/cron-expression-checker/
+**Live demo:** https://cron-expression-checker.vercel.app (Vercel) · [GitHub Pages mirror](https://babug01.github.io/cron-expression-checker/)
 
 Validate a cron expression, see the next several run times, and get a plain-English description of
 what it means — with an inline legend explaining each of the 5 fields, since crontab.guru's own
